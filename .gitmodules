@@ -1,0 +1,3 @@
+[submodule "FlaskChatApp"]
+	path = FlaskChatApp
+	url = https://github.com/menard-codes/FlaskChatApp.git
