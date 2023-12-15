@@ -1,0 +1,9 @@
+*~
+package-lock.json
+server/node_modules/
+**/.DS_Store
+**/.vscode/
+**/old/
+**/master_agents/
+**/__pycache__/
+**/agents/
