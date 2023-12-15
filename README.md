@@ -3,7 +3,7 @@
 ## 0. setup
 
 Clone this repo:
-`git clone https://github.com/kalebishop/online_exp_hosting.git`
+`git clone --recursive https://github.com/kalebishop/online_exp_hosting.git`
 
 Start up a python venv (ideally using python3.9) and install the prereqs:
 `python3.9 -m venv venv && source venv/bin/activate`
